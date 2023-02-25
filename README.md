@@ -1,6 +1,6 @@
 Open AI Sandbox repo
 
-!! Some commands
+## Some commands
 
 Generate image from prompt in generate.js
 ```bash
@@ -17,6 +17,6 @@ Edit image base on src and mask defined in edit.js
  OPENAI_API_KEY='XXX' node edit.js 
 ```
 
-!! Useful links
+## Useful links
 
 * OPEN AI: https://platform.openai.com/
